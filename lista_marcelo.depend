@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1682270990 source:c:\users\usuario\documents\c++\lista_marcelo\orientada.cpp
+	"orientada.h"
+
+1682271148 c:\users\usuario\documents\c++\lista_marcelo\orientada.h
+	<iostream>
+
+1682285742 source:c:\users\usuario\downloads\lista_marcelo\orientada.cpp
+	"orientada.h"
+
+1682285688 c:\users\usuario\downloads\lista_marcelo\orientada.h
+	<iostream>
+
+1682285668 source:c:\users\usuario\downloads\lista_marcelo\main.cpp
+	<iostream>
+	"orientada.h"
+	<time.h>
+
